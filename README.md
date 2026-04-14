@@ -58,19 +58,19 @@ To analyze Ola ride data and identify:
 ## 📸 Dashboard Preview
 
 ### 🔸 Overall Dashboard
-![Overall](dashboard1.png)
+![Overall](Dashboard1.png)
 
 ### 🔸 Cancellation Analysis
-![Cancellation](dashboard4.png)
+![Cancellation](Dashboard4.png)
 
 ### 🔸 Revenue Analysis
-![Revenue](dashboard3.png)
+![Revenue](Dashboard3.png)
 
 ### 🔸 Vehicle Type Analysis
-![Vehicle](dashboard2.png)
+![Vehicle](Dashboard2.png)
 
 ### 🔸 Ratings Analysis
-![Ratings](dashboard5.png)
+![Ratings](Dashboard5.png)
 
 ---
 
